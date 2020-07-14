@@ -15,3 +15,4 @@ The main goal for me is that instead of giving you a docker file, I would like t
 Like the proverb "give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime"
 
 Here is link to the webinar I did recently that covers the topic https://www.crowdcast.io/e/uplinkdockerbestpractise
+Here is the link to the slides
