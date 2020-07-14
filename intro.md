@@ -1,12 +1,13 @@
 What is a good dockerfile?
 
+- A good dockerfile creates an image that has a minimum size footprint.
+- Keeps the build time low.
+- Ensures that the container is not exposed to unrelated vulnerabilities.
+- Easy to read and maintain.
 
-- A good docker file has a minimum size footprint.
-    1. Making it easy for the collabrators to work with your project by keeping the file size low.
-    2. Memory footprint of the docker process is low.
-    3. Reducing the attack surface by excluding packages that are not used.
-    1. network latency – need to transfer Docker image over the web
-    1. storage – need to store all these bits somewhere
-    1. service availability and elasticity – when using a Docker scheduler, like Kubernetes, Swarm, Nomad, DC/OS or other (the scheduler can move containers between hosts)
-    1. security – do you really, I mean really need the libpng package with all its CVE vulnerabilities for your Java application?
-    1. development agility – small Docker images == faster build time and faster deployment
+By doing the above we get the below results
+
+- Making it easy for the collabrators to work with your project by keeping the file size low.
+- Improves development agility as a small Docker images means faster build time and faster deployment.
+- Reducing the attack surface by excluding packages that are not used.
+- Reduced network latency and faster transfer of Docker images over the web.
