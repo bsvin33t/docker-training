@@ -13,3 +13,5 @@ In the following blog posts and videos I will talk about how to write your docke
 The main goal for me is that instead of giving you a docker file, I would like to give you a set of thinking tools that will allow you to write a more efficient docker file, that will allow you to save time and money for your business.
 
 Like the proverb "give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime"
+
+Here is link to the webinar I did recently that covers the topic https://www.crowdcast.io/e/uplinkdockerbestpractise
