@@ -14,7 +14,7 @@ The main goal for me is that instead of giving you a dockerfile, I would like to
 
 Like the proverb "give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime"
 
-Here is link to the webinar I did recently that covers the topic:
+Here is link to the webinar I did recently that covers the topic: https://youtu.be/5kjXh6DCqGk
 
 Here is the link to the slides: https://www.slideshare.net/bhushanlodha/dockerfile-best-practices-236920219
 
