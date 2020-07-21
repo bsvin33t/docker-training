@@ -1,6 +1,6 @@
 What is a good dockerfile?
 
-- A good dockerfile creates an image that has a minimum size footprint.
+- A good dockerfile creates an image with minimum size footprint.
 - Keeps the build time low.
 - Ensures that the container is not exposed to unrelated vulnerabilities.
 - Easy to read and maintain.
