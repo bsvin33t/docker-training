@@ -7,7 +7,7 @@ What is a good dockerfile?
 
 By doing the above we get the below results
 
-- Making it easy for the collabrators to work with your project by keeping the file size low.
-- Improves development agility as a small Docker images means faster build time and faster deployment.
+- Making it easy for the collabrators to work with your project by keeping the image size low.
+- Improves development agility as small Docker images means faster build time and faster deployment.
 - Reducing the attack surface by excluding packages that are not used.
 - Reduced network latency and faster transfer of Docker images over the web.
