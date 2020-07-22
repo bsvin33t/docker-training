@@ -10,8 +10,8 @@ Dockerfile Best practices part 2 (find Part 1 [here](https://www.linkedin.com/pu
 
 By doing the above we get the below results
 
-- Making it easy for the collabrators to work with your project by keeping the image size low.
-- Improves development agility as small Docker images means faster build time and faster deployment.
+- Making it easy for the collaborators to work with your project by keeping the image size low.
+- Improves development agility as small Docker images mean faster build time and faster deployment.
 - Reducing the attack surface by excluding packages that are not used.
 - Reduced network latency and faster transfer of Docker images over the web.
 
