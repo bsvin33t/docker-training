@@ -1,6 +1,6 @@
 # What is a good dockerfile?
 
-Dockerfile Best practices part 2 (find Part 1 [here](https://www.linkedin.com/pulse/dockerfile-best-practices-buildkit-bhushan-lodha)
+Dockerfile Best practices part 2 (find Part 1 [here](https://www.linkedin.com/pulse/dockerfile-best-practices-buildkit-bhushan-lodha))
 
 - A good dockerfile creates an image of a smaller size.
 - Keeps the build time low.
