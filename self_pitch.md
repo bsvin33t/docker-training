@@ -1,1 +1,1 @@
-If you want to hire me or want my advise, contact me at bhushanlodha@gmail.com. be nice.
+If you want to hire me or you have some questions about the post or even just to say hi!, contact me at bhushanlodha [at] gmail [dot] com.
